@@ -28,7 +28,7 @@ body{
     text-decoration: none;
     
    
-    margin-right: 5%;
+    margin-right: 7%;
     display: inline-block;
     margin-top: 10px;
 }
@@ -113,7 +113,7 @@ body{
     .pointer {cursor: pointer;}
  .nav li{
     width: 5%;
-    
+  
  }
  .nav li a{
     text-decoration: none;
