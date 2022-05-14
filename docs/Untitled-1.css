@@ -125,3 +125,6 @@ body{
     font-family: l;
     src: url(leyla_0.ttf);
 }
+#nav li :hover{
+    cursor: pointer;
+}
