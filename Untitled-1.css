@@ -28,14 +28,14 @@ body{
     text-decoration: none;
     
    
-    margin-right: 5%;
+    margin-right: 7%;
     display: inline-block;
     margin-top: 10px;
 }
 .nav li a{
     text-decoration: none;
     color: white;
-    font-size: 50%;
+    font-size: 100%;
 }
  .nav li{
     color:yellow;
@@ -113,5 +113,15 @@ body{
     .pointer {cursor: pointer;}
  .nav li{
     width: 5%;
-    
+  
  }
+ .nav li a{
+    text-decoration: none;
+    color: white;
+    font-size: 100%;
+    font-family: l;
+}
+@font-face {
+    font-family: l;
+    src: url(leyla_0.ttf);
+}
