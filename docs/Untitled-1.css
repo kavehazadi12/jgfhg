@@ -119,4 +119,9 @@ body{
     text-decoration: none;
     color: white;
     font-size: 100%;
+    font-family: l;
+}
+@font-face {
+    font-family: l;
+    src: url(leyla_0.ttf);
 }
